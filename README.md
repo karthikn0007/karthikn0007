@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on [Aravinth-Beemaraj](https://github.com/Aravinth-Beemaraj/Javascripts-projects-.git)
 
 - 📫 How to reach me **keyan4305@gmail.com**
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263 hegiht=100px width=200px">
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263 ">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/karthi._07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthi._07_" height="30" width="40" /></a>
